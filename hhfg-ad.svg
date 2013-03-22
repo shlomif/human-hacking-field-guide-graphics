@@ -46,13 +46,13 @@
        x2="654.29266"
        y2="290.00128"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.24723662,0,0,0.24723662,-21.142096,411.3346)" />
+       gradientTransform="matrix(0.24723662,0,0,0.24723662,-20.868612,411.3346)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient833"
        id="linearGradient3040"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.24723662,0,0,0.24723662,-21.142096,937.3346)"
+       gradientTransform="matrix(0.24723662,0,0,0.24723662,-28.387117,937.3346)"
        x1="161.92941"
        y1="290.00128"
        x2="654.29266"
@@ -66,15 +66,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.96166667"
-     inkscape:cx="-43.743501"
-     inkscape:cy="299.48007"
+     inkscape:cx="-161.76776"
+     inkscape:cy="329.8229"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1450"
-     inkscape:window-height="781"
+     inkscape:window-width="1358"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="235"
+     inkscape:window-y="38"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,85 +96,85 @@
     <text
        xml:space="preserve"
        style="font-size:44.50259018px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient839);fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="14.177418"
+       x="14.450901"
        y="499.93933"
        id="text810"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan812"
-         x="14.177418"
+         x="14.450901"
          y="499.93933"
          style="fill:url(#linearGradient839);fill-opacity:1">&lt;h1&gt;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
-       x="79.029457"
+       x="79.30294"
        y="563.66376"
        id="text3008"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="79.029457"
+         x="79.30294"
          y="563.66376"
          id="tspan3018"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Utopia;-inkscape-font-specification:Utopia">The</tspan><tspan
          sodipodi:role="line"
-         x="79.029457"
+         x="79.30294"
          y="608.66376"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Utopia;-inkscape-font-specification:Utopia"
          id="tspan3022">Human</tspan><tspan
          sodipodi:role="line"
-         x="79.029457"
+         x="79.30294"
          y="653.66376"
          id="tspan3012"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Utopia;-inkscape-font-specification:Utopia">Hacking</tspan><tspan
          sodipodi:role="line"
-         x="79.029457"
+         x="79.30294"
          y="698.66376"
          id="tspan3014"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Utopia;-inkscape-font-specification:Utopia">Field</tspan><tspan
          sodipodi:role="line"
-         x="79.029457"
+         x="79.30294"
          y="743.66376"
          id="tspan3016"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Utopia;-inkscape-font-specification:Utopia">Guide</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:31.17030143999999936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway"
-       x="79.607887"
+       style="font-size:31.17030144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway"
+       x="79.881371"
        y="799.2326"
        id="text3024"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3026"
-         x="79.607887"
+         x="79.881371"
          y="799.2326">Who</tspan><tspan
          sodipodi:role="line"
-         x="79.607887"
+         x="79.881371"
          y="838.1955"
          id="tspan3028">said</tspan><tspan
          sodipodi:role="line"
-         x="79.607887"
+         x="79.881371"
          y="877.15839"
          id="tspan3030">girls</tspan><tspan
          sodipodi:role="line"
-         x="79.607887"
+         x="79.881371"
          y="916.12122"
          id="tspan3032">can't</tspan><tspan
          sodipodi:role="line"
-         x="79.607887"
+         x="79.881371"
          y="955.08411"
          id="tspan3034">code?</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3036"
        y="1025.9392"
-       x="14.177418"
+       x="6.9323969"
        style="font-size:44.50259018px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3040);fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          style="fill:url(#linearGradient3040);fill-opacity:1"
          y="1025.9392"
-         x="14.177418"
+         x="6.9323969"
          id="tspan3038"
-         sodipodi:role="line">&lt;h1&gt;</tspan></text>
+         sodipodi:role="line">&lt;/h1&gt;</tspan></text>
   </g>
 </svg>
